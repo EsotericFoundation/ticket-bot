@@ -1,14 +1,4 @@
 {
-	"name": "ticket-bot",
-	"version": "1.0.0",
-	"description": "A Discord bot that implements a ticketing system.",
-	"main": "src/bot.js",
-	"scripts": {
-		"run": "node ."
-	},
-	"author": "Esoteric Foundation",
-	"contributors": ["Esoteric Enderman", "rolyPolyVole"],
-	"license": "MIT",
 	"dependencies": {
 		"@discordjs/rest": "^1.1.0",
 		"chalk": "^4.1.2",
